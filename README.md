@@ -7,8 +7,8 @@
 
 ## Digest Movie 1 - Shin Arc (1985)*
 ###### 北斗の拳 TV総集編1 ユリア!永遠に・・・ さらばシンよ!!
-##### Fist of the North Star TV Compilation 1 - Yuria, Forever... and Farewell Shin!!
-###### Contains footage from HNK eps. 1, 6, 8, 12, 13, 16, 21, 22
+##### Fist of the North Star - TV Compilation 1 - Yuria, Forever... and Farewell Shin!!
+##### Contains footage from HNK eps. 1, 6, 8, 12, 13, 16, 21, 22
 
 <details>
 <summary>view credits</summary>
@@ -129,7 +129,7 @@
 ## Digest Movie 2 - Rei Arc (1986)*
 ###### 北斗の拳 TV総集編2 南斗六聖拳! 義の星の男レイ
 ##### Fist of the North Star - TV Compilation 2 - Six Sacred Fists of Nanto! Rei, the Star of Justice
-###### Contains footage from HNK eps. 23, 25-29, 42-47, 50-52, 55-57
+##### Contains footage from HNK eps. 23, 25-29, 42-47, 50-52, 55-57
 
 <br />
 <br />
@@ -138,7 +138,7 @@
 ## Digest Movie 3 - Raoh Arc (1987)*
 ###### 北斗の拳 TV総集編3 世紀末覇者の伝説 ラオウ死すべし!
 ##### Fist of the North Star - TV Compilation 3 - Legend of the Conqueror of Century's End - Raoh Must Die!
-###### Contains footage from HNK eps. 83, 89, 96, 99-101, 106-108
+##### Contains footage from HNK eps. 83, 89, 96, 99-101, 106-108
 
 <br />
 <br />
@@ -153,4 +153,7 @@
 - [0:09:27 ~ 0:09:34](http://youtu.be/qIt_2T0IOS8?t=566) (Relates to ep 100)
 - [0:19:47 ~ 0:19:53](http://youtu.be/qIt_2T0IOS8?t=1186) (Relates to ep 101)
 
-##### * Estimated TV airdates based on the VHS release dates and the TV airdates of the story arcs covered in each film. Even though films 2 and 3 were released on VHS in the same year, the production style is different enough between each film that it seems unlikely any of them were released concurrently.
+<br />
+<br />
+
+###### * Estimated TV airdates based on the VHS release dates and the TV airdates of the story arcs covered in each film. Even though films 2 and 3 were released on VHS in the same year, the production style is different enough between each film that it seems unlikely any of them were released concurrently.
