@@ -1,5 +1,5 @@
 # Fist of the North Star - Translation Project
-##### The purpose of this project is to document and subtitle the Fist of the North Star compilation films (frequently called "Digest Movies"), originally released from.
+##### The purpose of this project is to document and subtitle the Fist of the North Star compilation films (frequently called "Digest Movies"), originally released from 1985-1987.
 
 <br />
 <br />
