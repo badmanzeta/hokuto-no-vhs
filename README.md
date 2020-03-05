@@ -13,6 +13,13 @@
 <details>
 <summary>view credits</summary>
 
+opening credits
+
+##### シリーズ ディレクター Series Director
+戸田 豊雄 Toyoo Ashida
+
+end credits
+
 ##### 脚本 Screenplay
 戸田 博史 Hiroshi Toda
 
@@ -145,13 +152,18 @@
 
 ## Untranslated Parts
 #### Movie 2
-- [0:02:05 ~ 0:02:16](http://youtu.be/5Ds-EJ1s0jg?t=124) (Intro narration)
+- [0:02:05 ~ 0:02:16](http://youtu.be/5Ds-EJ1s0jgg?t=124) (Intro narration)
+- [0:06:00 ~ 0:07:15](http://youtu.be/5Ds-EJ1s0jgg?t=360)
+- [0:18:25 ~ 0:18:30](http://youtu.be/5Ds-EJ1s0jgg?t=1105)
+- [0:21:03 ~ 0:21:38](http://youtu.be/5Ds-EJ1s0jgg?t=1263)
+- [0:38:50 ~ 0:39:00](http://youtu.be/5Ds-EJ1s0jgg?t=2330)
+- [0:48:43 ~ 0:48:46](http://youtu.be/5Ds-EJ1s0jgg?t=2923) (Unknown Dialogue)
 
 #### Movie 3
-- [0:02:06 ~ 0:02:35](http://youtu.be/qIt_2T0IOS8?t=124) (Relates to ep 83??)
-- [0:05:20 ~ 0:05:56](http://youtu.be/qIt_2T0IOS8?t=319) (Relates to eps 89/96)
-- [0:09:27 ~ 0:09:34](http://youtu.be/qIt_2T0IOS8?t=566) (Relates to ep 100)
-- [0:19:47 ~ 0:19:53](http://youtu.be/qIt_2T0IOS8?t=1186) (Relates to ep 101)
+- [0:02:06 ~ 0:02:35](http://youtu.be/qIt_2T0IOS88?t=124) (Relates to ep 83??)
+- [0:05:20 ~ 0:05:56](http://youtu.be/qIt_2T0IOS88?t=319) (Relates to eps 89/96)
+- [0:09:27 ~ 0:09:34](http://youtu.be/qIt_2T0IOS88?t=566) (Relates to ep 100)
+- [0:19:47 ~ 0:19:53](http://youtu.be/qIt_2T0IOS88?t=1186) (Relates to ep 101)
 
 <br />
 <br />
